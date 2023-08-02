@@ -1,5 +1,4 @@
 wandb
-catboost
 duckdb
 ipykernel
 ipywidgets
@@ -11,3 +10,4 @@ pandas
 scikit-learn
 gate-drift
 seaborn
+catboost
