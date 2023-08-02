@@ -2,4 +2,4 @@
 *.tar
 
 #ignore dataset
-canonical-partioned-dataset/
+canonical-paritioned-dataset/
